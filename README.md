@@ -4,8 +4,10 @@ retweetBot
 ##Setup
 1. Install dependecies.
 'pip2 install tweepy'
-2. Complete thr fields of the two json files.
-3. Run it or push it to heroku
+2. make a copy of config.json.sample to config.json
+3. make a copy of textrc.json.sample
+4. Complete thr fields of the two json files.
+5. Run it or push it to heroku
  **Run Locally**
 `python bot.py'
 
