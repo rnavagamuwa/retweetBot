@@ -1,20 +1,16 @@
-SiripalaBot
+retweetBot
 ===========
-
-A tweet bot with  @SiripalaBot
 
 ##Setup
 1. Install dependecies.
 'pip2 install tweepy'
-1. make a copy of config.json.sample to config.json
-2. make a copy of textrc.json.sample
-3. Complete thr fields of the two json files.
-4. Run it or push it to heroku
+2. Complete thr fields of the two json files.
+3. Run it or push it to heroku
  **Run Locally**
 `python bot.py'
 
 ##Push To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/KaveenR/SiripalaBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/rnavagamuwa/retweetBot)
 
 **OR**
 
